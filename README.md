@@ -1,4 +1,4 @@
-#TicTacToe Game
+TicTacToe Game
 
 Welcome to my simple TicTacToe game, developed using Java and JavaFX!
 Requirements
