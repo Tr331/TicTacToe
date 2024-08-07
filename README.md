@@ -1,10 +1,9 @@
-TicTacToe Game
+# TicTacToe Game
 
 Welcome to my simple TicTacToe game, developed using Java and JavaFX!
+
 Requirements
-
 To run this project, ensure you have the following:
-
     Java 11
     OpenJFX 17.0.12
     Maven
