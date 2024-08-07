@@ -14,11 +14,4 @@ Overview
 
 This project demonstrates a classic TicTacToe game with a user-friendly interface built with JavaFX. It serves as an excellent example of applying Java and JavaFX skills to create an interactive application.
 
-Features
-
-User-friendly Interface: Enjoy a clean and intuitive design powered by JavaFX.
-Interactive Gameplay: Engage in a classic TicTacToe game against another player.
-Responsive Design: The application adapts seamlessly to different window sizes.
-
-
 Enjoy playing TicTacToe!
